@@ -16,9 +16,7 @@
 
     "allowJs": true,
     "isolatedModules": true,
-    module.exports = {
-    geminiApiKey: "AIzaSyAw_DE1Nq3MrpjxZMfFdi16o8p5jPdhLOM"
-}
+
     "paths": {
       "@/*": ["./*"]
     },
