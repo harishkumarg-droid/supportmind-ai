@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
 
-    base: '/Non-Compliance/',  // 👈 ADD THIS LINE
+    base: 'https://supportmind-ai.onrender.com/',  // 👈 ADD THIS LINE
 
     plugins: [react(), tailwindcss()],
     define: {
